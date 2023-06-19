@@ -8,7 +8,6 @@
 #import "GMSGeocoder.h"
 #import "GMSGeometryUtils.h"
 #import "GMSIndoorDisplay.h"
-#import "GMSMapID.h"
 #import "GMSMapLayer.h"
 #import "GMSMapStyle.h"
 #import "GMSMapView+Animation.h"
